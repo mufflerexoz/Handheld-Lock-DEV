@@ -12,7 +12,8 @@ portrait.
 
 ## Handheld Lock Premium
 
-A **one-time purchase** on Google Play. Pay once and you get everything:
+**Try it free for 7 days**, then unlock it with a **one-time purchase** on Google Play.
+Pay once and you get everything:
 
 - **Landscape everywhere**: games, apps (even ones that force portrait) and the home screen
 - **Lock screen in landscape** too
