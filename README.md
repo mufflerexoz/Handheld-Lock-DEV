@@ -10,26 +10,20 @@ portrait.
 
 <p align="center"><a href="https://play.google.com/store/apps/details?id=com.handheldlock.mufflerexoz">Get it on Google Play</a></p>
 
-## Features
+## Handheld Lock Premium
 
-**Free**
-- **Landscape lock**: games, apps (even ones that force portrait) and the home screen
-- **Controller-friendly**: console-style settings you can drive with a gamepad (D-pad, A, B, LB/RB)
-- **Set and forget**: stays on after a reboot
-- **Clean switch-off**: puts your previous auto-rotate setting back
-- **Private**: no internet access, no ads, no tracking
+A **one-time purchase** on Google Play. Pay once and you get everything:
 
-## What you get with Premium
-
-**Handheld Lock Premium** is a **one-time purchase** inside the app on Google Play.
-Pay once and you get:
-
+- **Landscape everywhere**: games, apps (even ones that force portrait) and the home screen
 - **Lock screen in landscape** too
 - **Quick Settings tile**: switch handheld mode on or off with one tap
-- **Reverse landscape and auto landscape** (flips 180° with the sensor, never portrait)
+- **Three orientations**: landscape, reverse landscape, or auto landscape (flips 180° with the sensor, never portrait)
+- **Controller-friendly**: console-style settings you can drive with a gamepad (D-pad, A, B, LB/RB)
+- **Set and forget**: stays on after a reboot, and puts your auto-rotate setting back when you turn it off
 - **No subscription and no ads, ever**
 - **All future updates free**
 - **Restored automatically** on every device signed in with the same Google account
+- **Private**: no internet access, no tracking
 
 ## Requirements
 
