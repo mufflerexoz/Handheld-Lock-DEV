@@ -1,12 +1,14 @@
-# Handheld Lock
+<p align="center"><img width="96" alt="Handheld Lock icon" src="assets/icon.png" /></p>
 
-**Turn your phone into a landscape handheld gaming device.**
+<h1 align="center">Handheld Lock</h1>
+
+<p align="center"><b>Turn your phone into a landscape handheld gaming device.</b></p>
 
 Handheld Lock keeps your whole phone in landscape: every game and app, the home screen,
 and even the lock screen. Clip on a controller grip and your phone stops flipping back to
 portrait.
 
-<a href="https://play.google.com/store/apps/details?id=com.handheldlock.mufflerexoz">Get it on Google Play</a>
+<p align="center"><a href="https://play.google.com/store/apps/details?id=com.handheldlock.mufflerexoz">Get it on Google Play</a></p>
 
 ## Features
 
