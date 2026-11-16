@@ -15,6 +15,14 @@ The only information the app stores is its own settings (whether the lock is on,
 landscape orientation you chose, and your previous auto-rotate setting so it can be restored).
 These stay on your device and are deleted when you uninstall the app.
 
+## Purchases
+
+Handheld Lock Premium is a one-time in-app purchase processed entirely by **Google Play**.
+Handheld Lock never sees or stores your payment details. The app only asks Google Play,
+on your device, whether your Google account owns Premium, and stores that yes/no answer
+locally. Google's handling of purchase data is described in the
+[Google Privacy Policy](https://policies.google.com/privacy).
+
 ## Accessibility Service
 
 Handheld Lock includes an optional Accessibility Service. It is used **only** to display an

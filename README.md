@@ -12,23 +12,24 @@ portrait.
 
 ## Features
 
-- **Landscape everywhere**: games, apps (even ones that force portrait), the home screen and the lock screen
-- **Quick Settings tile**: switch handheld mode on or off with one tap
-- **Three orientations**: landscape, reverse landscape, or auto landscape (flips 180° with the sensor, never portrait)
+**Free**
+- **Landscape lock**: games, apps (even ones that force portrait) and the home screen
+- **Controller-friendly**: console-style settings you can drive with a gamepad (D-pad, A, B, LB/RB)
 - **Set and forget**: stays on after a reboot
 - **Clean switch-off**: puts your previous auto-rotate setting back
 - **Private**: no internet access, no ads, no tracking
 
-## What you get with the paid app
+## What you get with Premium
 
-Handheld Lock is a **one-time purchase on Google Play**. Pay once and you get:
+**Handheld Lock Premium** is a **one-time purchase** inside the app on Google Play.
+Pay once and you get:
 
-- **Every feature**, with nothing locked or limited
-- **No ads, ever**
-- **No subscriptions** and no in-app purchases
+- **Lock screen in landscape** too
+- **Quick Settings tile**: switch handheld mode on or off with one tap
+- **Reverse landscape and auto landscape** (flips 180° with the sensor, never portrait)
+- **No subscription and no ads, ever**
 - **All future updates free**
-- **Install on all your devices** signed in with the same Google account
-- **Google Play refunds and Family Library**, as Google Play allows
+- **Restored automatically** on every device signed in with the same Google account
 
 ## Requirements
 
